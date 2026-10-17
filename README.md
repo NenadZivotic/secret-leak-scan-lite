@@ -10,7 +10,7 @@ PEM private-key blocks.
 ## Install
 
 ```bash
-npx skills add <your-gh-user>/secret-leak-scan-lite
+npx skills add NenadZivotic/secret-leak-scan-lite
 ```
 
 or clone into your agent's skill directory:
