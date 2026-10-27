@@ -38,5 +38,5 @@ This is the lite edition. The full `secret-leak-scan` skill adds:
 - Stripe live keys, Google API keys, fine-grained GitHub PATs
 - Complete triage & rotation workflow, git-history cleanup, CI gate recipe
 
-Available on [Agensi](https://agensi.io/skills/secret-leak-scan) and
-[SkillHQ](https://skillhq.dev/skills/sone94/secret-leak-scan).
+[Full version on SkillHQ](https://skillhq.dev/skills/sone94/secret-leak-scan) — also inside the
+`security-audit-bundle-8-skills` bundle ($29, 8 security skills).
